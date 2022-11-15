@@ -5,5 +5,5 @@ Test is a linebreak test <br/>
 did it work? <br/>
 It worked! <br/>
 ### This is a Blockquotes
-> There where a dark winter night in London where<br/>
-> Jack-The-Riper where stalking his next victim <br/>
+> There where a dark winter night in ***London*** where<br/>
+> **Jack-The-Riper** where stalking his next victim <br/>
