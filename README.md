@@ -19,13 +19,9 @@ You can find more information about Jack The Ripper at [Wikipedia](https://en.wi
 
 ````java
 public class MyClass{
-
-public static void main(String[]args){
-	System.out.println("Jack the riper was never Found");
-
-}
-
-
+	public static void main(String[]args){
+		System.out.println("Jack the riper was never Found");
+	}	
 }
 
 ````
